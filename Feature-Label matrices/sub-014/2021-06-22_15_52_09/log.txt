@@ -1,0 +1,5 @@
+
+subject number:     sub-014
+bin features:       ['min', 'max', 'mean', 'std', 'median']
+bin time:           200 [ms]
+        
