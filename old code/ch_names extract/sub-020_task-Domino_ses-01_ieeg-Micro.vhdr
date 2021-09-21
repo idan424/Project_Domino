@@ -1,0 +1,120 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-020_task-Domino_ses-01_ieeg-Micro.dat
+MarkerFile=sub-020_task-Domino_ses-01_ieeg-Micro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=95
+DataPoints=57483743
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=3.333333e+01
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=RPHG1,, 
+Ch2=RPHG2,, 
+Ch3=RPHG3,, 
+Ch4=RPHG4,, 
+Ch5=RPHG5,, 
+Ch6=RPHG6,, 
+Ch7=RPHG7,, 
+Ch8=RPHG8,, 
+Ch9=RMH1,, 
+Ch10=RMH2,, 
+Ch11=RMH3,, 
+Ch12=RMH4,, 
+Ch13=RMH5,, 
+Ch14=RMH6,, 
+Ch15=RMH7,, 
+Ch16=RMH8,, 
+Ch17=RO1,, 
+Ch18=RO2,, 
+Ch19=RO3,, 
+Ch20=RO4,, 
+Ch21=RO5,, 
+Ch22=RO6,, 
+Ch23=RO7,, 
+Ch24=RO8,, 
+Ch25=RPC1,, 
+Ch26=RPC2,, 
+Ch27=RPC3,, 
+Ch28=RPC4,, 
+Ch29=RPC5,, 
+Ch30=RPC6,, 
+Ch31=RPC7,, 
+Ch32=RPC8,, 
+Ch33=RPR1,, 
+Ch34=RPR2,, 
+Ch35=RPR3,, 
+Ch36=RPR4,, 
+Ch37=RPR5,, 
+Ch38=RPR6,, 
+Ch39=RPR7,, 
+Ch40=RPR8,, 
+Ch41=RPRp1,, 
+Ch42=RPRp2,, 
+Ch43=RPRp3,, 
+Ch44=RPRp4,, 
+Ch45=RPRp5,, 
+Ch46=RPRp6,, 
+Ch47=RPRp7,, 
+Ch48=RPRp8,, 
+Ch49=RTPR1,, 
+Ch50=RTPR2,, 
+Ch51=RTPR3,, 
+Ch52=RTPR4,, 
+Ch53=RTPR5,, 
+Ch54=RTPR6,, 
+Ch55=RTPR7,, 
+Ch56=RTPR8,, 
+Ch57=RECR1,, 
+Ch58=RECR2,, 
+Ch59=RECR3,, 
+Ch60=RECR4,, 
+Ch61=RECR5,, 
+Ch62=RECR6,, 
+Ch63=RECR7,, 
+Ch64=RECR8,, 
+Ch65=1LMH1,, 
+Ch66=1LMH2,, 
+Ch67=1LMH3,, 
+Ch68=1LMH4,, 
+Ch69=1LMH5,, 
+Ch70=1LMH6,, 
+Ch71=1LMH7,, 
+Ch72=1LMH8,, 
+Ch73=1LPC1,, 
+Ch74=1LPC2,, 
+Ch75=1LPC3,, 
+Ch76=1LPC4,, 
+Ch77=1LPC5,, 
+Ch78=1LPC6,, 
+Ch79=1LPC7,, 
+Ch80=1LPC8,, 
+Ch81=2RpSMA1,, 
+Ch82=2RpSMA2,, 
+Ch83=2RpSMA3,, 
+Ch84=2RpSMA4,, 
+Ch85=2RpSMA5,, 
+Ch86=2RpSMA6,, 
+Ch87=2RpSMA7,, 
+Ch88=2RpSMA8,, 
+Ch89=ainp1,, 
+Ch90=ainp2,, 
+Ch91=ainp3,, 
+Ch92=ainp4,, 
+Ch93=ainp5,, 
+Ch94=ainp6,, 
+Ch95=ainp7,, 
+

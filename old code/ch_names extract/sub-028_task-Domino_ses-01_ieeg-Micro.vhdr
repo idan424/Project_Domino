@@ -1,0 +1,120 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-028_task-Domino_ses-01_ieeg-Micro.dat
+MarkerFile=sub-028_task-Domino_ses-01_ieeg-Micro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=95
+DataPoints=49770865
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=3.333333e+01
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=LOF1,, 
+Ch2=LOF2,, 
+Ch3=LOF3,, 
+Ch4=LOF4,, 
+Ch5=LOF5,, 
+Ch6=LOF6,, 
+Ch7=LOF7,, 
+Ch8=LOF8,, 
+Ch9=LEC1,, 
+Ch10=LEC2,, 
+Ch11=LEC3,, 
+Ch12=LEC4,, 
+Ch13=LEC5,, 
+Ch14=LEC6,, 
+Ch15=LEC7,, 
+Ch16=LEC8,, 
+Ch17=LPHGa1,, 
+Ch18=LPHGa2,, 
+Ch19=LPHGa3,, 
+Ch20=LPHGa4,, 
+Ch21=LPHGa5,, 
+Ch22=LPHGa6,, 
+Ch23=LPHGa7,, 
+Ch24=LPHGa8,, 
+Ch25=LPHGp1,, 
+Ch26=LPHGp2,, 
+Ch27=LPHGp3,, 
+Ch28=LPHGp4,, 
+Ch29=LPHGp5,, 
+Ch30=LPHGp6,, 
+Ch31=LPHGp7,, 
+Ch32=LPHGp8,, 
+Ch33=LPT1,, 
+Ch34=LPT2,, 
+Ch35=LPT3,, 
+Ch36=LPT4,, 
+Ch37=LPT5,, 
+Ch38=LPT6,, 
+Ch39=LPT7,, 
+Ch40=LPT8,, 
+Ch41=LSTGa1,, 
+Ch42=LSTGa2,, 
+Ch43=LSTGa3,, 
+Ch44=LSTGa4,, 
+Ch45=LSTGa5,, 
+Ch46=LSTGa6,, 
+Ch47=LSTGa7,, 
+Ch48=LSTGa8,, 
+Ch49=LSTGp1,, 
+Ch50=LSTGp2,, 
+Ch51=LSTGp3,, 
+Ch52=LSTGp4,, 
+Ch53=LSTGp5,, 
+Ch54=LSTGp6,, 
+Ch55=LSTGp7,, 
+Ch56=LSTGp8,, 
+Ch57=LTO1,, 
+Ch58=LTO2,, 
+Ch59=LTO3,, 
+Ch60=LTO4,, 
+Ch61=LTO5,, 
+Ch62=LTO6,, 
+Ch63=LTO7,, 
+Ch64=LTO8,, 
+Ch65=RH1,, 
+Ch66=RH2,, 
+Ch67=RH3,, 
+Ch68=RH4,, 
+Ch69=RH5,, 
+Ch70=RH6,, 
+Ch71=RH7,, 
+Ch72=RH8,, 
+Ch73=RPHG1,, 
+Ch74=RPHG2,, 
+Ch75=RPHG3,, 
+Ch76=RPHG4,, 
+Ch77=RPHG5,, 
+Ch78=RPHG6,, 
+Ch79=RPHG7,, 
+Ch80=RPHG8,, 
+Ch81=RSTG81,, 
+Ch82=RSTG82,, 
+Ch83=RSTG83,, 
+Ch84=RSTG84,, 
+Ch85=RSTG85,, 
+Ch86=RSTG86,, 
+Ch87=RSTG87,, 
+Ch88=RSTG88,, 
+Ch89=ainp1,, 
+Ch90=ainp2,, 
+Ch91=ainp3,, 
+Ch92=ainp4,, 
+Ch93=ainp5,, 
+Ch94=ainp6,, 
+Ch95=ainp7,, 
+

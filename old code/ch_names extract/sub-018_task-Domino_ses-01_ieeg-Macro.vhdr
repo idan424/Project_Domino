@@ -1,0 +1,108 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-018_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-018_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=83
+DataPoints=4747867
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=EEG_RA1,, 
+Ch2=EEG_RA2,, 
+Ch3=EEG_RA3,, 
+Ch4=EEG_RA4,, 
+Ch5=EEG_RA5,, 
+Ch6=EEG_RA6,, 
+Ch7=EEG_RA7,, 
+Ch8=EEG_RA8,, 
+Ch9=EEG_RMH1,, 
+Ch10=EEG_RMH2,, 
+Ch11=EEG_RMH3,, 
+Ch12=EEG_RMH4,, 
+Ch13=EEG_RMH5,, 
+Ch14=EEG_RMH6,, 
+Ch15=EEG_RMH7,, 
+Ch16=EEG_RMH8,, 
+Ch17=EEG_ROF-AC1,, 
+Ch18=EEG_ROF-AC2,, 
+Ch19=EEG_ROF-AC3,, 
+Ch20=EEG_ROF-AC4,, 
+Ch21=EEG_ROF-AC5,, 
+Ch22=EEG_ROF-AC6,, 
+Ch23=EEG_ROF-AC7,, 
+Ch24=EEG_ROF-AC8,, 
+Ch25=EEG_RAC1,, 
+Ch26=EEG_RAC2,, 
+Ch27=EEG_RAC3,, 
+Ch28=EEG_RAC4,, 
+Ch29=EEG_RAC5,, 
+Ch30=EEG_RAC6,, 
+Ch31=EEG_RAC7,, 
+Ch32=EEG_RAC8,, 
+Ch33=EEG_RCAUD1,, 
+Ch34=EEG_RCAUD2,, 
+Ch35=EEG_RCAUD3,, 
+Ch36=EEG_RCAUD4,, 
+Ch37=EEG_RCAUD5,, 
+Ch38=EEG_RCAUD6,, 
+Ch39=EEG_RCAUD7,, 
+Ch40=EEG_RCAUD8,, 
+Ch41=EEG_RMC1,, 
+Ch42=EEG_RMC2,, 
+Ch43=EEG_RMC3,, 
+Ch44=EEG_RMC4,, 
+Ch45=EEG_RMC5,, 
+Ch46=EEG_RMC6,, 
+Ch47=EEG_RMC7,, 
+Ch48=EEG_RMC8,, 
+Ch49=EEG_RSMA1,, 
+Ch50=EEG_RSMA2,, 
+Ch51=EEG_RSMA3,, 
+Ch52=EEG_RSMA4,, 
+Ch53=EEG_RSMA5,, 
+Ch54=EEG_RSMA6,, 
+Ch55=EEG_RSMA7,, 
+Ch56=EEG_RSMA8,, 
+Ch57=EEG_LCAUD1,, 
+Ch58=EEG_LCAUD2,, 
+Ch59=EEG_LCAUD3,, 
+Ch60=EEG_LCAUD4,, 
+Ch61=EEG_LCAUD5,, 
+Ch62=EEG_LCAUD6,, 
+Ch63=EEG_LCAUD7,, 
+Ch64=EEG_LCAUD8,, 
+Ch65=EEG_LOF-AC1,, 
+Ch66=EEG_LOF-AC2,, 
+Ch67=EEG_LOF-AC3,, 
+Ch68=EEG_LOF-AC4,, 
+Ch69=EEG_LOF-AC5,, 
+Ch70=EEG_LOF-AC6,, 
+Ch71=EEG_LOF-AC7,, 
+Ch72=EEG_LOF-AC8,, 
+Ch73=black1,, 
+Ch74=black,, 
+Ch75=red,, 
+Ch76=white,, 
+Ch77=yellow,, 
+Ch78=blue,, 
+Ch79=Fz,, 
+Ch80=Cz,, 
+Ch81=Pz,, 
+Ch82=ECG1,, 
+Ch83=ECG2,, 
+

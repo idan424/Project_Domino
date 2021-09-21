@@ -1,0 +1,97 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-007_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-007_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=72
+DataPoints=4566611
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=RMH_EEG1,, 
+Ch2=RMH_EEG2,, 
+Ch3=RMH_EEG3,, 
+Ch4=RMH_EEG4,, 
+Ch5=RMH_EEG5,, 
+Ch6=RMH_EEG6,, 
+Ch7=RMH_EEG7,, 
+Ch8=RMH_EEG8,, 
+Ch9=REC_EEG9,, 
+Ch10=REC_EEG10,, 
+Ch11=REC_EEG11,, 
+Ch12=REC_EEG12,, 
+Ch13=REC_EEG13,, 
+Ch14=REC_EEG14,, 
+Ch15=REC_EEG15,, 
+Ch16=REC_EEG16,, 
+Ch17=RA_EEG17,, 
+Ch18=RA_EEG18,, 
+Ch19=RA_EEG19,, 
+Ch20=RA_EEG20,, 
+Ch21=RA_EEG21,, 
+Ch22=RA_EEG22,, 
+Ch23=RA_EEG23,, 
+Ch24=RA_EEG24,, 
+Ch25=ROF_EEG25,, 
+Ch26=ROF_EEG26,, 
+Ch27=ROF_EEG27,, 
+Ch28=ROF_EEG28,, 
+Ch29=ROF_EEG29,, 
+Ch30=ROF_EEG30,, 
+Ch31=ROF_EEG31,, 
+Ch32=ROF_EEG32,, 
+Ch33=RMC_EEG33,, 
+Ch34=RMC_EEG34,, 
+Ch35=RMC_EEG35,, 
+Ch36=RMC_EEG36,, 
+Ch37=RMC_EEG37,, 
+Ch38=RMC_EEG38,, 
+Ch39=RMC_EEG39,, 
+Ch40=RMC_EEG40,, 
+Ch41=LMH_EEG41,, 
+Ch42=LMH_EEG42,, 
+Ch43=LMH_EEG43,, 
+Ch44=LMH_EEG44,, 
+Ch45=LMH_EEG45,, 
+Ch46=LMH_EEG46,, 
+Ch47=LMH_EEG47,, 
+Ch48=LMH_EEG48,, 
+Ch49=LEC_EEG49,, 
+Ch50=LEC_EEG50,, 
+Ch51=LEC_EEG51,, 
+Ch52=LEC_EEG52,, 
+Ch53=LEC_EEG53,, 
+Ch54=LEC_EEG54,, 
+Ch55=LEC_EEG55,, 
+Ch56=LEC_EEG56,, 
+Ch57=LA_EEG57,, 
+Ch58=LA_EEG58,, 
+Ch59=LA_EEG59,, 
+Ch60=LA_EEG60,, 
+Ch61=LA_EEG61,, 
+Ch62=LA_EEG62,, 
+Ch63=LA_EEG63,, 
+Ch64=LA_EEG64,, 
+Ch65=LOF_EEG65,, 
+Ch66=LOF_EEG66,, 
+Ch67=LOF_EEG67,, 
+Ch68=LOF_EEG68,, 
+Ch69=LOF_EEG69,, 
+Ch70=LOF_EEG70,, 
+Ch71=LOF_EEG71,, 
+Ch72=LOF_EEG72,, 
+

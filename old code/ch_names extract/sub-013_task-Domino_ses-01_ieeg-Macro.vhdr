@@ -1,0 +1,104 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-013_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-013_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=79
+DataPoints=4559651
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=EEG_RA1,, 
+Ch2=EEG_RA2,, 
+Ch3=EEG_RA3,, 
+Ch4=EEG_RA4,, 
+Ch5=EEG_RA5,, 
+Ch6=EEG_RA6,, 
+Ch7=EEG_RA7,, 
+Ch8=EEG_RA8,, 
+Ch9=EEG_RMH1,, 
+Ch10=EEG_RMH2,, 
+Ch11=EEG_RMH3,, 
+Ch12=EEG_RMH4,, 
+Ch13=EEG_RMH5,, 
+Ch14=EEG_RMH6,, 
+Ch15=EEG_RMH7,, 
+Ch16=EEG_RMH8,, 
+Ch17=EEG_RMTG1,, 
+Ch18=EEG_RMTG2,, 
+Ch19=EEG_RMTG3,, 
+Ch20=EEG_RMTG4,, 
+Ch21=EEG_RMTG5,, 
+Ch22=EEG_RMTG6,, 
+Ch23=EEG_RMTG7,, 
+Ch24=EEG_RMTG8,, 
+Ch25=EEG_RTP1,, 
+Ch26=EEG_RTP2,, 
+Ch27=EEG_RTP3,, 
+Ch28=EEG_RTP4,, 
+Ch29=EEG_RTP5,, 
+Ch30=EEG_RTP6,, 
+Ch31=EEG_RTP7,, 
+Ch32=EEG_RTP8,, 
+Ch33=EEG_RAC1,, 
+Ch34=EEG_RAC2,, 
+Ch35=EEG_RAC3,, 
+Ch36=EEG_RAC4,, 
+Ch37=EEG_RAC5,, 
+Ch38=EEG_RAC6,, 
+Ch39=EEG_RAC7,, 
+Ch40=EEG_RAC8,, 
+Ch41=EEG_LA1,, 
+Ch42=EEG_LA2,, 
+Ch43=EEG_LA3,, 
+Ch44=EEG_LA4,, 
+Ch45=EEG_LA5,, 
+Ch46=EEG_LA6,, 
+Ch47=EEG_LA7,, 
+Ch48=EEG_LA8,, 
+Ch49=EEG_LMH1,, 
+Ch50=EEG_LMH2,, 
+Ch51=EEG_LMH3,, 
+Ch52=EEG_LMH4,, 
+Ch53=EEG_LMH5,, 
+Ch54=EEG_LMH6,, 
+Ch55=EEG_LMH7,, 
+Ch56=EEG_LMH8,, 
+Ch57=EEG_LAC1,, 
+Ch58=EEG_LAC2,, 
+Ch59=EEG_LAC3,, 
+Ch60=EEG_LAC4,, 
+Ch61=EEG_LAC5,, 
+Ch62=EEG_LAC6,, 
+Ch63=EEG_LAC7,, 
+Ch64=EEG_LAC8,, 
+Ch65=chan114,, 
+Ch66=chan115,, 
+Ch67=chan116,, 
+Ch68=chan117,, 
+Ch69=chan118,, 
+Ch70=C4,, 
+Ch71=black knot,, 
+Ch72=red,, 
+Ch73=white,, 
+Ch74=black,, 
+Ch75=yellow,, 
+Ch76=blue,, 
+Ch77=Cz,, 
+Ch78=ECG1,, 
+Ch79=ECG2,, 
+

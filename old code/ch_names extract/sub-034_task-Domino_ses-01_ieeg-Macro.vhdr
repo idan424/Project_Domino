@@ -1,0 +1,119 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-034_task-Domino_ses-01_ieeg-Macro.dat
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=95
+DataPoints=3945437
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=EEG_RA1,, 
+Ch2=EEG_RA2,, 
+Ch3=EEG_RA3,, 
+Ch4=EEG_RA4,, 
+Ch5=EEG_RA5,, 
+Ch6=EEG_RA6,, 
+Ch7=EEG_RA7,, 
+Ch8=EEG_RA8,, 
+Ch9=EEG_RAH1,, 
+Ch10=EEG_RAH2,, 
+Ch11=EEG_RAH3,, 
+Ch12=EEG_RAH4,, 
+Ch13=EEG_RAH5,, 
+Ch14=EEG_RAH6,, 
+Ch15=EEG_RAH7,, 
+Ch16=EEG_RAH8,, 
+Ch17=EEG_RP2_1,, 
+Ch18=EEG_RP2_2,, 
+Ch19=EEG_RP2_3,, 
+Ch20=EEG_RP2_4,, 
+Ch21=EEG_RP2_5,, 
+Ch22=EEG_RP2_6,, 
+Ch23=EEG_RP2_7,, 
+Ch24=EEG_RP2_8,, 
+Ch25=EEG_RP1_1,, 
+Ch26=EEG_RP1_2,, 
+Ch27=EEG_RP1_3,, 
+Ch28=EEG_RP1_4,, 
+Ch29=EEG_RP1_5,, 
+Ch30=EEG_RP1_6,, 
+Ch31=EEG_RP1_7,, 
+Ch32=EEG_RP1_8,, 
+Ch33=EEG_RTO1,, 
+Ch34=EEG_RTO2,, 
+Ch35=EEG_RTO3,, 
+Ch36=EEG_RTO4,, 
+Ch37=EEG_RTO5,, 
+Ch38=EEG_RTO6,, 
+Ch39=EEG_RTO7,, 
+Ch40=EEG_RTO8,, 
+Ch41=EEG_RP3_post1,, 
+Ch42=EEG_RP3_post2,, 
+Ch43=EEG_RP3_post3,, 
+Ch44=EEG_RP3_post4,, 
+Ch45=EEG_RP3_post5,, 
+Ch46=EEG_RP3_post6,, 
+Ch47=EEG_RP3_post7,, 
+Ch48=EEG_RP3_post8,, 
+Ch49=EEG_RTP1,, 
+Ch50=EEG_RTP2,, 
+Ch51=EEG_RTP3,, 
+Ch52=EEG_RTP4,, 
+Ch53=EEG_RTP5,, 
+Ch54=EEG_RTP6,, 
+Ch55=EEG_RTP7,, 
+Ch56=EEG_RTP8,, 
+Ch57=EEG_RPO1,, 
+Ch58=EEG_RPO2,, 
+Ch59=EEG_RPO3,, 
+Ch60=EEG_RPO4,, 
+Ch61=EEG_RPO5,, 
+Ch62=EEG_RPO6,, 
+Ch63=EEG_RPO7,, 
+Ch64=EEG_RPO8,, 
+Ch65=EEG_LAH1,, 
+Ch66=EEG_LAH2,, 
+Ch67=EEG_LAH3,, 
+Ch68=EEG_LAH4,, 
+Ch69=EEG_LAH5,, 
+Ch70=EEG_LAH6,, 
+Ch71=EEG_LAH7,, 
+Ch72=EEG_LAH8,, 
+Ch73=EEG_LTP1,, 
+Ch74=EEG_LTP2,, 
+Ch75=EEG_LTP3,, 
+Ch76=EEG_LTP4,, 
+Ch77=EEG_LTP5,, 
+Ch78=EEG_LTP6,, 
+Ch79=EEG_LTP7,, 
+Ch80=EEG_LTP8,, 
+Ch81=chan114,, 
+Ch82=chan115,, 
+Ch83=chan116,, 
+Ch84=chan117,, 
+Ch85=chan118,, 
+Ch86=chan119,, 
+Ch87=chan120,, 
+Ch88=chan121,, 
+Ch89=chan122,, 
+Ch90=chan123,, 
+Ch91=chan124,, 
+Ch92=chan125,, 
+Ch93=chan126,, 
+Ch94=chan127,, 
+Ch95=chan128,, 
+

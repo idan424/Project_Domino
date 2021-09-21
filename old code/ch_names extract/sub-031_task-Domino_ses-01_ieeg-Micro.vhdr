@@ -1,0 +1,88 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-031_task-Domino_ses-01_ieeg-Micro.dat
+MarkerFile=sub-031_task-Domino_ses-01_ieeg-Micro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=63
+DataPoints=49254029
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=3.333333e+01
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=LantSTG1,, 
+Ch2=LantSTG2,, 
+Ch3=LantSTG3,, 
+Ch4=LantSTG4,, 
+Ch5=LantSTG5,, 
+Ch6=LantSTG6,, 
+Ch7=LantSTG7,, 
+Ch8=LantSTG8,, 
+Ch9=LA1,, 
+Ch10=LA2,, 
+Ch11=LA3,, 
+Ch12=LA4,, 
+Ch13=LA5,, 
+Ch14=LA6,, 
+Ch15=LA7,, 
+Ch16=LA8,, 
+Ch17=LmidSTG1,, 
+Ch18=LmidSTG2,, 
+Ch19=LmidSTG3,, 
+Ch20=LmidSTG4,, 
+Ch21=LmidSTG5,, 
+Ch22=LmidSTG6,, 
+Ch23=LmidSTG7,, 
+Ch24=LmidSTG8,, 
+Ch25=LH1,, 
+Ch26=LH2,, 
+Ch27=LH3,, 
+Ch28=LH4,, 
+Ch29=LH5,, 
+Ch30=LH6,, 
+Ch31=LH7,, 
+Ch32=LH8,, 
+Ch33=LpostSTG1,, 
+Ch34=LpostSTG2,, 
+Ch35=LpostSTG3,, 
+Ch36=LpostSTG4,, 
+Ch37=LpostSTG5,, 
+Ch38=LpostSTG6,, 
+Ch39=LpostSTG7,, 
+Ch40=LpostSTG8,, 
+Ch41=LPOPerc1,, 
+Ch42=LPOPerc2,, 
+Ch43=LPOPerc3,, 
+Ch44=LPOPerc4,, 
+Ch45=LPOPerc5,, 
+Ch46=LPOPerc6,, 
+Ch47=LPOPerc7,, 
+Ch48=LPOPerc8,, 
+Ch49=RpostSTG1,, 
+Ch50=RpostSTG2,, 
+Ch51=RpostSTG3,, 
+Ch52=RpostSTG4,, 
+Ch53=RpostSTG5,, 
+Ch54=RpostSTG6,, 
+Ch55=RpostSTG7,, 
+Ch56=RpostSTG8,, 
+Ch57=ainp1,, 
+Ch58=ainp2,, 
+Ch59=ainp3,, 
+Ch60=ainp4,, 
+Ch61=ainp5,, 
+Ch62=ainp6,, 
+Ch63=ainp7,, 
+

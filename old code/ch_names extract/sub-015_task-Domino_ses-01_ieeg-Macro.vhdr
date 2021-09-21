@@ -1,0 +1,100 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-015_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-015_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=75
+DataPoints=4346863
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=EEG_RHC1,, 
+Ch2=EEG_RHC2,, 
+Ch3=EEG_RHC3,, 
+Ch4=EEG_RHC4,, 
+Ch5=EEG_RHC5,, 
+Ch6=EEG_RHC6,, 
+Ch7=EEG_RHC7,, 
+Ch8=EEG_RHC8,, 
+Ch9=EEG_ROF1,, 
+Ch10=EEG_ROF2,, 
+Ch11=EEG_ROF3,, 
+Ch12=EEG_ROF4,, 
+Ch13=EEG_ROF5,, 
+Ch14=EEG_ROF6,, 
+Ch15=EEG_ROF7,, 
+Ch16=EEG_ROF8,, 
+Ch17=EEG_ROPR1,, 
+Ch18=EEG_ROPR2,, 
+Ch19=EEG_ROPR3,, 
+Ch20=EEG_ROPR4,, 
+Ch21=EEG_ROPR5,, 
+Ch22=EEG_ROPR6,, 
+Ch23=EEG_ROPR7,, 
+Ch24=EEG_ROPR8,, 
+Ch25=EEG_RMF1,, 
+Ch26=EEG_RMF2,, 
+Ch27=EEG_RMF3,, 
+Ch28=EEG_RMF4,, 
+Ch29=EEG_RMF5,, 
+Ch30=EEG_RMF6,, 
+Ch31=EEG_RMF7,, 
+Ch32=EEG_RMF8,, 
+Ch33=EEG_RASF1,, 
+Ch34=EEG_RASF2,, 
+Ch35=EEG_RASF3,, 
+Ch36=EEG_RASF4,, 
+Ch37=EEG_RASF5,, 
+Ch38=EEG_RASF6,, 
+Ch39=EEG_RASF7,, 
+Ch40=EEG_RASF8,, 
+Ch41=EEG_RAC1,, 
+Ch42=EEG_RAC2,, 
+Ch43=EEG_RAC3,, 
+Ch44=EEG_RAC4,, 
+Ch45=EEG_RAC5,, 
+Ch46=EEG_RAC6,, 
+Ch47=EEG_RAC7,, 
+Ch48=EEG_RAC8,, 
+Ch49=EEG_LHC1,, 
+Ch50=EEG_LHC2,, 
+Ch51=EEG_LHC3,, 
+Ch52=EEG_LHC4,, 
+Ch53=EEG_LHC5,, 
+Ch54=EEG_LHC6,, 
+Ch55=EEG_LHC7,, 
+Ch56=EEG_LHC8,, 
+Ch57=EEG_LOF1,, 
+Ch58=EEG_LOF2,, 
+Ch59=EEG_LOF3,, 
+Ch60=EEG_LOF4,, 
+Ch61=EEG_LOF5,, 
+Ch62=EEG_LOF6,, 
+Ch63=EEG_LOF7,, 
+Ch64=EEG_LOF8,, 
+Ch65=yellow,, 
+Ch66=white,, 
+Ch67=black2,, 
+Ch68=red,, 
+Ch69=blue,, 
+Ch70=black,, 
+Ch71=Fz,, 
+Ch72=Cz,, 
+Ch73=Pz,, 
+Ch74=ECG1,, 
+Ch75=ECG2,, 
+

@@ -1,0 +1,97 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-032_task-Domino_ses-01_ieeg-Micro.dat
+MarkerFile=sub-032_task-Domino_ses-01_ieeg-Micro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=72
+DataPoints=32892754
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=3.333333e+01
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=RFPolar1,, 
+Ch2=RFPolar2,, 
+Ch3=RFPolar3,, 
+Ch4=RFPolar4,, 
+Ch5=RFPolar5,, 
+Ch6=RFPolar6,, 
+Ch7=RFPolar7,, 
+Ch8=RFPolar8,, 
+Ch9=ROF1,, 
+Ch10=ROF2,, 
+Ch11=ROF3,, 
+Ch12=ROF4,, 
+Ch13=ROF5,, 
+Ch14=ROF6,, 
+Ch15=ROF7,, 
+Ch16=ROF8,, 
+Ch17=RAC1,, 
+Ch18=RAC2,, 
+Ch19=RAC3,, 
+Ch20=RAC4,, 
+Ch21=RAC5,, 
+Ch22=RAC6,, 
+Ch23=RAC7,, 
+Ch24=RAC8,, 
+Ch25=RdACC1,, 
+Ch26=RdACC2,, 
+Ch27=RdACC3,, 
+Ch28=RdACC4,, 
+Ch29=RdACC5,, 
+Ch30=RdACC6,, 
+Ch31=RdACC7,, 
+Ch32=RdACC8,, 
+Ch33=RA1,, 
+Ch34=RA2,, 
+Ch35=RA3,, 
+Ch36=RA4,, 
+Ch37=RA5,, 
+Ch38=RA6,, 
+Ch39=RA7,, 
+Ch40=RA8,, 
+Ch41=RH1,, 
+Ch42=RH2,, 
+Ch43=RH3,, 
+Ch44=RH4,, 
+Ch45=RH5,, 
+Ch46=RH6,, 
+Ch47=RH7,, 
+Ch48=RH8,, 
+Ch49=LFPolar1,, 
+Ch50=LFPolar2,, 
+Ch51=LFPolar3,, 
+Ch52=LFPolar4,, 
+Ch53=LFPolar5,, 
+Ch54=LFPolar6,, 
+Ch55=LFPolar7,, 
+Ch56=LFPolar8,, 
+Ch57=LOF1,, 
+Ch58=LOF2,, 
+Ch59=LOF3,, 
+Ch60=LOF4,, 
+Ch61=LOF5,, 
+Ch62=LOF6,, 
+Ch63=LOF7,, 
+Ch64=LOF8,, 
+Ch65=LdACC1,, 
+Ch66=LdACC2,, 
+Ch67=LdACC3,, 
+Ch68=LdACC4,, 
+Ch69=LdACC5,, 
+Ch70=LdACC6,, 
+Ch71=LdACC7,, 
+Ch72=LdACC8,, 
+

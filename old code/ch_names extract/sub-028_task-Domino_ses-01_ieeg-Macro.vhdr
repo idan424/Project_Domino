@@ -1,0 +1,123 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-028_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-028_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=98
+DataPoints=3313535
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=EEG_LOF1,, 
+Ch2=EEG_LOF2,, 
+Ch3=EEG_LOF3,, 
+Ch4=EEG_LOF4,, 
+Ch5=EEG_LOF5,, 
+Ch6=EEG_LOF6,, 
+Ch7=EEG_LOF7,, 
+Ch8=EEG_LOF8,, 
+Ch9=EEG_LEC1,, 
+Ch10=EEG_LEC2,, 
+Ch11=EEG_LEC3,, 
+Ch12=EEG_LEC4,, 
+Ch13=EEG_LEC5,, 
+Ch14=EEG_LEC6,, 
+Ch15=EEG_LEC7,, 
+Ch16=EEG_LEC8,, 
+Ch17=EEG_LPHGa1,, 
+Ch18=EEG_LPHGa2,, 
+Ch19=EEG_LPHGa3,, 
+Ch20=EEG_LPHGa4,, 
+Ch21=EEG_LPHGa5,, 
+Ch22=EEG_LPHGa6,, 
+Ch23=EEG_LPHGa7,, 
+Ch24=EEG_LPHGa8,, 
+Ch25=EEG_LPHGp1,, 
+Ch26=EEG_LPHGp2,, 
+Ch27=EEG_LPHGp3,, 
+Ch28=EEG_LPHGp4,, 
+Ch29=EEG_LPHGp5,, 
+Ch30=EEG_LPHGp6,, 
+Ch31=EEG_LPHGp7,, 
+Ch32=EEG_LPHGp8,, 
+Ch33=EEG_LPT1,, 
+Ch34=EEG_LPT2,, 
+Ch35=EEG_LPT3,, 
+Ch36=EEG_LPT4,, 
+Ch37=EEG_LPT5,, 
+Ch38=EEG_LPT6,, 
+Ch39=EEG_LPT7,, 
+Ch40=EEG_LPT8,, 
+Ch41=EEG_LSTGa1,, 
+Ch42=EEG_LSTGa2,, 
+Ch43=EEG_LSTGa3,, 
+Ch44=EEG_LSTGa4,, 
+Ch45=EEG_LSTGa5,, 
+Ch46=EEG_LSTGa6,, 
+Ch47=EEG_LSTGa7,, 
+Ch48=EEG_LSTGa8,, 
+Ch49=EEG_LSTGp1,, 
+Ch50=EEG_LSTGp2,, 
+Ch51=EEG_LSTGp3,, 
+Ch52=EEG_LSTGp4,, 
+Ch53=EEG_LSTGp5,, 
+Ch54=EEG_LSTGp6,, 
+Ch55=EEG_LSTGp7,, 
+Ch56=EEG_LSTGp8,, 
+Ch57=EEG_LTO1,, 
+Ch58=EEG_LTO2,, 
+Ch59=EEG_LTO3,, 
+Ch60=EEG_LTO4,, 
+Ch61=EEG_LTO5,, 
+Ch62=EEG_LTO6,, 
+Ch63=EEG_LTO7,, 
+Ch64=EEG_LTO8,, 
+Ch65=EEG_RH1,, 
+Ch66=EEG_RH2,, 
+Ch67=EEG_RH3,, 
+Ch68=EEG_RH4,, 
+Ch69=EEG_RH5,, 
+Ch70=EEG_RH6,, 
+Ch71=EEG_RH7,, 
+Ch72=EEG_RH8,, 
+Ch73=EEG_RPHG1,, 
+Ch74=EEG_RPHG2,, 
+Ch75=EEG_RPHG3,, 
+Ch76=EEG_RPHG4,, 
+Ch77=EEG_RPHG5,, 
+Ch78=EEG_RPHG6,, 
+Ch79=EEG_RPHG7,, 
+Ch80=EEG_RPHG8,, 
+Ch81=EEG_RSTG1,, 
+Ch82=EEG_RSTG2,, 
+Ch83=EEG_RSTG3,, 
+Ch84=EEG_RSTG4,, 
+Ch85=EEG_RSTG5,, 
+Ch86=EEG_RSTG6,, 
+Ch87=EEG_RSTG7,, 
+Ch88=EEG_RSTG8,, 
+Ch89=red,, 
+Ch90=black1,, 
+Ch91=white,, 
+Ch92=blue,, 
+Ch93=black2,, 
+Ch94=yellow,, 
+Ch95=Fz-black,, 
+Ch96=Cz-green,, 
+Ch97=ECG1,, 
+Ch98=ECG2,, 
+

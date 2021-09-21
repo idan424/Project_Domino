@@ -1,0 +1,113 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created from the EEGLAB software
+
+[Common Infos]
+DataFile=sub-009_task-Domino_ses-01_ieeg-Macro.dat
+MarkerFile=sub-009_task-Domino_ses-01_ieeg-Macro.vmrk
+DataFormat=BINARY
+; Data orientation: VECTORIZED=ch1,pt1, ch1,pt2..., MULTIPLEXED=ch1,pt1, ch2,pt1 ...
+DataOrientation=VECTORIZED
+DataType=TIMEDOMAIN
+NumberOfChannels=88
+DataPoints=3500307
+; Sampling interval in microseconds if time domain (convert to Hertz:
+; 1000000 / SamplingInterval) or in Hertz if frequency domain:
+SamplingInterval=500
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+; Each entry: Ch<Channel number>=<Name>,<Reference channel name>,
+; <Resolution in microvolts>,<Future extensions..
+; Fields are delimited by commas, some fields might be omited (empty).
+; Commas in channel names are coded as "".
+Ch1=RMH_EEG1,, 
+Ch2=RMH_EEG2,, 
+Ch3=RMH_EEG3,, 
+Ch4=RMH_EEG4,, 
+Ch5=RMH_EEG5,, 
+Ch6=RMH_EEG6,, 
+Ch7=RMH_EEG7,, 
+Ch8=RMH_EEG8,, 
+Ch9=REC_EEG1,, 
+Ch10=REC_EEG2,, 
+Ch11=REC_EEG3,, 
+Ch12=REC_EEG4,, 
+Ch13=REC_EEG5,, 
+Ch14=REC_EEG6,, 
+Ch15=REC_EEG7,, 
+Ch16=REC_EEG8,, 
+Ch17=RA_EEG1,, 
+Ch18=RA_EEG2,, 
+Ch19=RA_EEG3,, 
+Ch20=RA_EEG4,, 
+Ch21=RA_EEG5,, 
+Ch22=RA_EEG6,, 
+Ch23=RA_EEG7,, 
+Ch24=RA_EEG8,, 
+Ch25=RSTG_EEG1,, 
+Ch26=RSTG_EEG2,, 
+Ch27=RSTG_EEG3,, 
+Ch28=RSTG_EEG4,, 
+Ch29=RSTG_EEG5,, 
+Ch30=RSTG_EEG6,, 
+Ch31=RSTG_EEG7,, 
+Ch32=RSTG_EEG8,, 
+Ch33=RACv_EEG1,, 
+Ch34=RACv_EEG2,, 
+Ch35=RACv_EEG3,, 
+Ch36=RACv_EEG4,, 
+Ch37=RACv_EEG5,, 
+Ch38=RACv_EEG6,, 
+Ch39=RACv_EEG7,, 
+Ch40=RACv_EEG8,, 
+Ch41=RpSMA_EEG1,, 
+Ch42=RpSMA_EEG2,, 
+Ch43=RpSMA_EEG3,, 
+Ch44=RpSMA_EEG4,, 
+Ch45=RpSMA_EEG5,, 
+Ch46=RpSMA_EEG6,, 
+Ch47=RpSMA_EEG7,, 
+Ch48=RpSMA_EEG8,, 
+Ch49=RAF_EEG1,, 
+Ch50=RAF_EEG2,, 
+Ch51=RAF_EEG3,, 
+Ch52=RAF_EEG4,, 
+Ch53=RAF_EEG5,, 
+Ch54=RAF_EEG6,, 
+Ch55=RAF_EEG7,, 
+Ch56=RAF_EEG8,, 
+Ch57=LEC-LPHG_EEG1,, 
+Ch58=LEC-LPHG_EEG2,, 
+Ch59=LEC-LPHG_EEG3,, 
+Ch60=LEC-LPHG_EEG4,, 
+Ch61=LEC-LPHG_EEG5,, 
+Ch62=LEC-LPHG_EEG6,, 
+Ch63=LEC-LPHG_EEG7,, 
+Ch64=LEC-LPHG_EEG8,, 
+Ch65=LAH_EEG1,, 
+Ch66=LAH_EEG2,, 
+Ch67=LAH_EEG3,, 
+Ch68=LAH_EEG4,, 
+Ch69=LAH_EEG5,, 
+Ch70=LAH_EEG6,, 
+Ch71=LAH_EEG7,, 
+Ch72=LAH_EEG8,, 
+Ch73=LACv_EEG1,, 
+Ch74=LACv_EEG2,, 
+Ch75=LACv_EEG3,, 
+Ch76=LACv_EEG4,, 
+Ch77=LACv_EEG5,, 
+Ch78=LACv_EEG6,, 
+Ch79=LACv_EEG7,, 
+Ch80=LACv_EEG8,, 
+Ch81=LpSMA_EEG1,, 
+Ch82=LpSMA_EEG2,, 
+Ch83=LpSMA_EEG3,, 
+Ch84=LpSMA_EEG4,, 
+Ch85=LpSMA_EEG5,, 
+Ch86=LpSMA_EEG6,, 
+Ch87=LpSMA_EEG7,, 
+Ch88=LpSMA_EEG8,, 
+
